@@ -1,3 +1,5 @@
+# 基于树莓派、Qt的OpenCV人脸识别签到系统
+
 ## 1. 项目目的
 
 1. 开发板实践：掌握应用树莓派（Raspberry Pi）这一低成本、高性能的微型计算机在人脸识别领域的应用。
@@ -26,11 +28,9 @@
 
 ## 3. 项目框架
 
-![image-20240421095834843](./assets/image-20240421095834843.png)
+![image-20240421095834843](https://github.com/breezs/facial-recognition-sign-system/raw/main/assets/image-20240421095834843.png)
 
-![image-20240421094637382](./assets/image-20240421094637382.png)
-
-![image-20240421094652756](./assets/image-20240421094652756.png)
+![image-20240421094652756](https://github.com/breezs/facial-recognition-sign-system/raw/main/assets/image-20240421094652756.png)
 
 详细高清大图，可进入网址：https://whimsical.com/raspi-opencv-qt-PbJKqzjuTn7eThsWBZ1ong
 
@@ -110,15 +110,15 @@ python -m venv .venv
 
 安装完毕以后，建立一个mysql数据库，数据库名字为test，创建person_info以及person_sign两个表，字段设计如下
 
-![image-20240421105123587](./assets/image-20240421105123587.png)
+![image-20240421105123587](https://github.com/breezs/facial-recognition-sign-system/raw/main/assets/image-20240421105123587.png)
 
 数据（可参考）
 
-![image-20240421114507675](./assets/image-20240421114507675.png)
+![image-20240421114507675](https://github.com/breezs/facial-recognition-sign-system/raw/main/assets/image-20240421114507675.png)
 
 
 
-![image-20240421105138491](./assets/image-20240421105138491.png)
+![image-20240421105138491](https://github.com/breezs/facial-recognition-sign-system/raw/main/assets/image-20240421105138491.png)
 
 
 

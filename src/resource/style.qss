@@ -1,0 +1,25 @@
+QMainWindow{
+        background-image:url("C:\Users\omniv\Desktop\SignSystem-master\faceimage.jpg");
+        background-color:white;
+}
+QPushButton
+{
+    text-align:center;
+    background:#6DDF6D;
+    border-radius:5px;
+    border:none;
+    font-size:13px;
+    line-height: 13px;
+}
+QPushButton:hover
+{
+    background:yellow;
+}
+
+QLabel#label{
+    background-color: #ffaa00;
+    text-align:center;
+    border:none;
+    font-size:20px;
+    line-height: 20px;
+}
